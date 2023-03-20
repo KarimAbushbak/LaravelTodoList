@@ -1,0 +1,18 @@
+.wrapper {
+    min-height: 100vh;
+    background-color: #f8f8f8;
+}
+.todos-form{
+    width: 500px;
+}
+.todos-form .form-control,
+.todos-form .btn{
+    height: 50px;
+
+}
+.todos-list{
+    width:700px;
+}
+.todos-list .item {
+    padding:2rem;
+}
